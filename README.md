@@ -64,8 +64,8 @@ http://localhost:5173 (or similar port shown in terminal)
 If you’d like to discuss this project or provide feedback, feel free to reach out:
 
 Shibino Abraham 
-Email: shibino.developer@gmail.com*your email*  
-GitHub: *https://github.com/shibino-developer*
+Email: shibino.developer@gmail.com  
+GitHub: https://github.com/shibino-developer
 
 ---
 
