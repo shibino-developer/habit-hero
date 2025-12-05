@@ -17,7 +17,9 @@ view analytics such as streaks and success rate, and stay consistent.
 ## Tech Stack
 
 Backend : Python, FastAPI, SQLModel, SQLite 
+
 Frontend : React + Vite
+
 Tools : Uvicorn, Axios, VSCode 
 
 ---
@@ -27,12 +29,16 @@ Tools : Uvicorn, Axios, VSCode
 ### Backend
 
 cd backend
+
 pip install -r requirements.txt
+
 uvicorn main:app --reload
 
 ## Frontend
 
 cd frontend
+
 npm install
+
 npm run dev
 
